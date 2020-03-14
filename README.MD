@@ -9,7 +9,6 @@ This is a data analytics project utilizing Python v.3 libraries Numpy, PANDAS, M
 <li> <a href=https://seaborn.pydata.org/> Seaborn</a>
 
 # Data Analysis Outline:
-<li> 
 <li> The first step in data analysis is introducing the data and discussing the objectives. It is also in this step that I outlined the content of the data analysis process. </li>
 <li> The second step of data wrangling is assessment wherein we utilize both visual and programmatic assessment methods in order to assess data quality and tidiness issues that we need to address prior to analyzing data. </li>
 <li> The third step the data wrangling process is the cleaning stage wherein we use several pandas methods in order to clean any quality and tidiness issues we've detected during the assessment process. </li>
