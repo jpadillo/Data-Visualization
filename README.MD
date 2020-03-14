@@ -1,5 +1,5 @@
-# Data Wrangling Project
-This is a data analytics project utilizing Python v.3 libraries Numpy, PANDAS, Matplotlib and seaborn through Jupyter Notebook in order to analyze data regarding loans from Prosper Marketplace, Inc. The focus of this project is data visualization wherein we undergo two different types: exploratory and explanatory
+# Data Visualization Project
+This is a data analytics project utilizing Python v.3 libraries Numpy, PANDAS, Matplotlib and seaborn through Jupyter Notebook in order to analyze data regarding loans from Prosper Marketplace, Inc. The focus of this project is data visualization wherein we undergo two different types: exploratory univariate, bivariate and multivariate visualizations and explanatory visualizations
 
 # Required Software:
 <li> <a href=https://jupyter.org/install>Jupyter Notebook</a>
